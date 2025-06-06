@@ -46,10 +46,16 @@ git clone https://github.com/HermanCS-07/Manasye-SKJ-lab.git
 cd Assignment1/Task_1
 
 # Compile the code using make
-make
+make all
 
 # Run the compiled executable
-./add
+make run
+
+# To see its assembly
+make dump
+
+# To clean/delete the binary
+make clean
 ```
 ### Expected Output
 ```
