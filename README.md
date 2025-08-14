@@ -37,7 +37,7 @@ To compile the source code, you will need a C++ compiler (like g++) and make. Na
 
 1. Clone the repository
 ```bash
-git clone https://github.com/HermanCS-07/Manasye-SKJ-lab.git
+git clone https://github.com/manasyesuarthana/Manasye-SKJ-lab.git
 ```
 
 2. Example for task 1
